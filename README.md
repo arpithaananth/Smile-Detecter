@@ -3,4 +3,4 @@
 Developed a code which can detect an individual's smile, face and eyes through OpenCV Cascade Filters
 
 A glimpse of the code output
-![Capture3](https://user-images.githubusercontent.com/47745543/84591385-8da6d780-ae5b-11ea-85a8-2abffa7fb217.png)
+![Untitled](https://user-images.githubusercontent.com/47745543/84591447-1d4c8600-ae5c-11ea-8378-80b8ec25752c.png)
